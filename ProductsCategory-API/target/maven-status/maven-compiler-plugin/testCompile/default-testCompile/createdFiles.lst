@@ -1,0 +1,7 @@
+starter\CucumberTestSuite.class
+starter\pages\CategoryByIdPage.class
+starter\pages\DeletePage.class
+starter\stepdefinitions\CategoryByIdSteps.class
+starter\stepdefinitions\CreateCategorySteps.class
+starter\stepdefinitions\Delete.class
+starter\pages\CreateCategoryPage.class

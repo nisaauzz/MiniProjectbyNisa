@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user i can success login so that i can see main page","as user i want to input empty password then get error message","SUCCESS","2023-05-08T20:27:33.018+07:00[Asia/Bangkok]","0.0","7.18"

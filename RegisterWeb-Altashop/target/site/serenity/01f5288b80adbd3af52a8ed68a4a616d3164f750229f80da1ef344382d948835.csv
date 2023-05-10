@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user i can be success register so that i can used my account for login","as user i want to register with complete values","SUCCESS","2023-05-08T20:45:39.369+07:00[Asia/Bangkok]","0.0","18.96"
+"As a user i can be success register so that i can used my account for login","as user i want to register with empty name","SUCCESS","2023-05-08T20:45:59.73+07:00[Asia/Bangkok]","0.0","7.54"
+"As a user i can be success register so that i can used my account for login","as user i want to register with using existing email","SUCCESS","2023-05-08T20:46:08.355+07:00[Asia/Bangkok]","0.0","12.06"
+"As a user i can be success register so that i can used my account for login","as user i want to register with empty password","SUCCESS","2023-05-08T20:46:21.213+07:00[Asia/Bangkok]","0.0","11.57"
+"As a user i can be success register so that i can used my account for login","as user i want to register with empty email","SUCCESS","2023-05-08T20:46:33.562+07:00[Asia/Bangkok]","0.0","11.42"

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user i can choose product so that i can see transactions page","as user i want to choose product and add product to cart","SUCCESS","2023-05-08T21:01:46.633+07:00[Asia/Bangkok]","0.0","26.43"
+"As a user i can choose product so that i can see transactions page","as user i can see detail product","SUCCESS","2023-05-08T21:02:14.059+07:00[Asia/Bangkok]","0.0","11.9"
+"As a user i can choose product so that i can see transactions page","as user i want to order and pay product","SUCCESS","2023-05-08T21:02:27.111+07:00[Asia/Bangkok]","0.0","11.39"

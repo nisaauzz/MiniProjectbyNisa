@@ -1,0 +1,15 @@
+starter\pages\CreateNewProductPage.class
+starter\pages\AllProductPage.class
+starter\stepdefinitions\CreateCommentProductSteps.class
+starter\stepdefinitions\ProductRatingSteps.class
+starter\stepdefinitions\CreateNewProductSteps.class
+starter\pages\CommentProductPage.class
+starter\stepdefinitions\CreateProductRatingsSteps.class
+starter\pages\CreateCommentProductsPage.class
+starter\stepdefinitions\AllProductSteps.class
+starter\stepdefinitions\ProductCommentsSteps.class
+starter\CucumberTestSuite.class
+starter\pages\ProductRatingPage.class
+starter\pages\DeletePage.class
+starter\stepdefinitions\Delete.class
+starter\pages\CreateProductRatingsPage.class
